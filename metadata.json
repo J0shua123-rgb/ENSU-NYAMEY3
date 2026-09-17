@@ -1,0 +1,6 @@
+{
+  "name": "ENSU NYAMEY3",
+  "description": "Cold Store & Food Stuffs catalog for Ashaiman, Ghana with instant WhatsApp ordering in Ghanaian Cedis (GH₵).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
